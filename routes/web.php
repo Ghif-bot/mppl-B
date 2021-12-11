@@ -28,3 +28,20 @@ Route::get('/detail', function () {
 Route::get('/register', function () {
     return view('register');
 });
+
+Route::get('/daftar', function () {
+    return view('daftar');
+});
+
+
+Route::get('/profile', function () {
+    return view('profil');
+});
+
+Route::get('/utama', function () {
+    return view('admin.utama');
+});
+
+Route::get('/transaksi', function () {
+    return view('admin.transaksi');
+});

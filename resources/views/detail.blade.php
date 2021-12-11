@@ -51,7 +51,7 @@
           <li><a class="nav-link scrollto" href="/index">Home</a></li>
           <li><a class="nav-link scrollto" href="#">Profil</a></li>
           <li><a class="nav-link scrollto" href="/">Log Out</a></li>
-          <li><a class="getstarted scrollto" href="#">Daftar Pesanan</a></li>
+          <li><a class="getstarted scrollto" href="/daftar">Daftar Pesanan</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -74,34 +74,21 @@
                 <div class="swiper-slide">
                   <img src="{{asset('Ninestars/assets/img/portfolio/portfolio-1.jpg')}}" alt="">
                 </div>
-
-                <div class="swiper-slide">
-                  <img src="{{asset('Ninestars/assets/img/portfolio/portfolio-2.jpg')}}" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="{{asset('Ninestars/assets/img/portfolio/portfolio-3.jpg')}}" alt="">
-                </div>
-
               </div>
-              <div class="swiper-pagination"></div>
+              
             </div>
           </div>
 
           <div class="col-lg-4">
             <div class="portfolio-info">
-              <h3>Project information</h3>
-              <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
-              </ul>
+              <a href="#">
+                <h3>PESAN</h3>
+              </a>
             </div>
             <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
+              <h2>Deskripsi</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                Untuk Deskripsi Produk
               </p>
             </div>
           </div>
