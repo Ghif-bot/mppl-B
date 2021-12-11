@@ -45,3 +45,7 @@ Route::get('/utama', function () {
 Route::get('/transaksi', function () {
     return view('admin.transaksi');
 });
+
+Route::get('/tambah', function () {
+    return view('admin.tambah');
+});

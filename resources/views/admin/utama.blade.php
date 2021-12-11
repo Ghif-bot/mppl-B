@@ -64,7 +64,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="charts.html">
+                <a class="nav-link" href="/tambah">
                     <i class="fas fa-fw fa-wrench"></i>
                     <span>Tambah Produk</span></a>
             </li>
