@@ -72,10 +72,10 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="{{asset('Ninestars/assets/img/portfolio/portfolio-1.jpg')}}" alt="">
+                  <img src="{{asset('/Ninestars/assets/img/portfolio/onde-onde.jpg')}}" alt="">
                 </div>
               </div>
-              
+
             </div>
           </div>
 
@@ -84,12 +84,33 @@
               <a href="#">
                 <h3>PESAN</h3>
               </a>
-            </div>
-            <div class="portfolio-description">
+               </div>
+                 <div class="portfolio-description">
               <h2>Deskripsi</h2>
-              <p>
-                Untuk Deskripsi Produk
+              <p style="font-weight: bold; font-size: 18px">
+               onde onde frozen beku  besar 10pcs
               </p>
+                 <p>
+                 Rp. 55.000
+                  </p>
+                <table class="noborder"  width="100%" cellspacing="0">
+                        <tr>
+                          <th style="font-weight: normal">Kondisi: Baru</th>
+                        </tr>
+                         <tr>
+                          <th style="font-weight: normal">Berat: 200 Gram</th>
+                        </tr>
+                </table>
+                <br>
+                <p>Komposisi</p>
+                <ul>
+
+                <li>Gula</li>
+                <li>Santan</li>
+                <li>dll</li>
+                </ul>
+            </div>
+
             </div>
           </div>
 
